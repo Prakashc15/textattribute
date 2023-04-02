@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+<h1 id="tit">Aarupadai veedu institute of technology</h1>
+<hr>
+<br>
+<h2 id="ex">50 Years of experience</h2>
+<br>
+<div id="mail"><a href="">avit.ac@in</a></div>
+<div id="mail1"><a href="">044-45678901</a></div>
+<h2 id="cor">Courses</h2>
+<div class="pan">
+<p><b>Engeneering Arts(and)Science FAHS DOM LAW MBBS</b></p>
+</div>
+<br>
+<h3 id="eng">Engeneering</h3>
+<div class="li1">
+<P>ECE</P>
+<P>B.TECH</P>
+<P>EEE</P>
+<P>CSE</P>
+<P>IT</P>
+</div>
+<h3 id="art">Arts and Science</h3>
+<div class="li2">
+<P>Tamil</P>
+<P>BCA</P>
+<P>BBA</P>
+<P>CS</P>
+<P>BCOM</P>
+</div>
+<p class="sre">MBBS</p>
+<p class="sre1"><b>MBBS currently not available the courses</b></P>
+</body>
+</head>
