@@ -1,0 +1,54 @@
+body{
+background-color:Skyblue;
+/* color:blue; */
+}
+#tit{
+	background-color:gray;
+	text-align:center;
+	text-transform:uppercase;
+	text-shadow:2px 2px red;
+}
+#ex{
+	text-align:center;
+	color:Darkgreen;
+}
+#mail1{
+	text-align:right;
+}
+#cor{
+	background-color:white;
+	text-align:center;
+	color:red;
+}
+.pan{
+	text-decoration:underline;
+	text-align-last:justify;
+	text-align:center;
+	color:black;
+}
+#eng{
+	background-color:white;
+	text-align:center;
+	color:red;
+}
+.li1{
+	text-align:center;
+	color:darkblue;
+}
+#art{
+	background-color:white;
+	text-align:center;
+	color:red;
+}
+.li2{
+	text-align:center;
+	color:darkblue;
+}
+.sre{
+	text-decoration:line-through;
+	text-align:center;
+}
+.sre1{
+	text-decoration:underline;
+	text-align:center;
+}
